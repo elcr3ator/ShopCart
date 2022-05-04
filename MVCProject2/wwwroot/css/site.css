@@ -1,0 +1,38 @@
+body{
+    background-color: darkgray; 
+    
+}
+#foot {
+    margin-bottom: 0;
+}
+.img-thumbnail{
+    width: 500px;
+    height: 300px;
+}
+
+#MainWindow {
+    width: 350px;
+    height: 400px;
+    margin-left: 508px;
+    margin-top: 209px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+}
+
+#login {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    /* identical to box height */
+    text-align: center;
+    color: #FFFFFF;
+    background: #EA5F76;
+    border-radius: 5px;
+    width: 270px;
+}
+
+#Pic{
+    background-color: blue;
+}
